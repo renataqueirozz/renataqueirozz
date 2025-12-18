@@ -1,7 +1,3 @@
-## Welcome to my GitHub! 
-
-Software developer focused on back-end development.
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renataqueirozz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renataqueirozz&layout=compact&theme=radical)
 
