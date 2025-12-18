@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,9 +11,14 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk@v3.0.0
         with:
           github_user_name: renataqueirozz
           outputs: |
