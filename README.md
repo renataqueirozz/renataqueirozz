@@ -17,8 +17,9 @@
 <h4>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/renata-queiroz-trs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>        
+  </a>
+ <a id="linkedin" href="https://www.linkedin.com/in/renata-queiroz-76966222b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>     
   </a>
   <a href="mailto:renataqueiroz7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>        
