@@ -1,5 +1,18 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renataqueirozz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renataqueirozz&layout=compact&theme=radical)
+  <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=FFA4C7&width=587&separator=%3E&lines=System.out.println(%22Hello%2C+World!%22);" alt="Typing SVG" />
+</a>
+<br>
+
+##  📊 Stats  
+<div align="left"> 
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?
+
+ <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=000&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7">
+    <img   width="50%" alt="renataqueirozz GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/renataqueirozz?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=FFA4C7FF&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7" />
+  </a>
+</p>
+  </a>
+</div>
 
 
 ## Tech Stack
@@ -17,5 +30,12 @@
 
 
 
+
+
 ![Snake animation](https://raw.githubusercontent.com/renataqueirozz/renataqueirozz/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake animation](https://raw.githubusercontent.com/renataqueirozz/renataqueirozz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
+
+
+
